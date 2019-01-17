@@ -1,0 +1,4 @@
+com\mycompany\mavenproject2\RestJsonApplication.class
+com\mycompany\mavenproject2\v1\resources\impl\ItemResourceImpl.class
+com\mycompany\mavenproject2\v1\resources\ItemResource.class
+com\mycompany\mavenproject2\v1\resources\Item.class
